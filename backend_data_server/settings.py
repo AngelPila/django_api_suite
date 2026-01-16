@@ -134,3 +134,5 @@ STATICFILES_DIRS = [
 ]
 
 STATIC_ROOT = "assets/"
+
+FIREBASE_DATABASE_URL = "https://TU-PROYECTO-default-rtdb.firebaseio.com/"
