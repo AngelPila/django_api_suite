@@ -31,7 +31,7 @@ SECRET_KEY = "django-insecure-i0oc3klfz(89r7zryfce=^!h%r)4x^&8%9v(956i6^^%ee!#%%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['<Caluloper.pythonanywhere.com']
+ALLOWED_HOSTS = ['caluloper.pythonanywhere.com']
 
 
 # Application definition
