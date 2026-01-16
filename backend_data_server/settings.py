@@ -135,4 +135,4 @@ STATICFILES_DIRS = [
 
 STATIC_ROOT = "assets/"
 
-FIREBASE_DATABASE_URL = "https://TU-PROYECTO-default-rtdb.firebaseio.com/"
+FIREBASE_DATABASE_URL = "https://landing-18da4-default-rtdb.firebaseio.com/"
