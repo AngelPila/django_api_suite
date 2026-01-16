@@ -31,7 +31,7 @@ SECRET_KEY = "django-insecure-i0oc3klfz(89r7zryfce=^!h%r)4x^&8%9v(956i6^^%ee!#%%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['<Caluloper.pythonanywhere.com']
 
 
 # Application definition
@@ -132,3 +132,5 @@ STATIC_URL = "static/"
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, STATIC_URL),
 ]
+
+STATIC_ROOT = "assets/"
